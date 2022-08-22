@@ -1,5 +1,5 @@
 <template>
-  <div>John cena 2022</div>
+  <div>This is working in private mode</div>
 </template>
 
 <script>
