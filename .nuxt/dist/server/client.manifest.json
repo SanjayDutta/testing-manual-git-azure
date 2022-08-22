@@ -3,21 +3,21 @@
   "all": [
     "../server/index.spa.html",
     "../server/index.ssr.html",
-    "0e165cd.js",
+    "0fc5872.js",
     "273ce3a.js",
-    "854a297.js",
+    "98ea648.js",
     "LICENSES",
     "b552d99.js",
     "c82fef5.js",
     "dbc89df.js"
   ],
   "initial": [
-    "854a297.js",
+    "98ea648.js",
     "273ce3a.js",
     "b552d99.js"
   ],
   "async": [
-    "0e165cd.js",
+    "0fc5872.js",
     "c82fef5.js",
     "dbc89df.js"
   ],
@@ -847,13 +847,13 @@
     "0a8a953c": [
       2
     ],
-    "19680b84": [
+    "4e5461b0": [
       2
     ],
     "8e8ee976": [
       2
     ],
-    "4a92405d": [
+    "0a000401": [
       2
     ],
     "bc8112c4": [
@@ -886,13 +886,13 @@
   },
   "assetsMapping": {
     "2a130dde": [
-      "0e165cd.js"
+      "0fc5872.js"
     ],
     "085a35c4": [
       "273ce3a.js"
     ],
     "6fca0322": [
-      "854a297.js"
+      "98ea648.js"
     ],
     "1a3ae26b": [
       "b552d99.js"
