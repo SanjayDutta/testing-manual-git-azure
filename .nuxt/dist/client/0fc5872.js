@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{252:function(n,e,t){"use strict";t.r(e);var r={name:"IndexPage"},o=t(56),component=Object(o.a)(r,(function(){this._self._c;return this._m(0)}),[function(){var n=this._self._c;return n("div",[n("h1",[this._v("This is working in private mode 2022")])])}],!1,null,null,null);e.default=component.exports}}]);
