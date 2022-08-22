@@ -1,5 +1,8 @@
 <template>
-  <div><h1>2nd Title</h1></div>
+  <div>
+    <h1>2nd Title</h1>
+    <body>This is the body section</body>
+  </div>
 </template>
 
 <script>
