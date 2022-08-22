@@ -1,5 +1,5 @@
 <template>
-  <div>This is working in private mode</div>
+  <div>This is working in private mode 2022</div>
 </template>
 
 <script>
