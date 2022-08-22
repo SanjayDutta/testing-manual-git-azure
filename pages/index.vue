@@ -1,5 +1,5 @@
 <template>
-  <div>Hello World 2022</div>
+  <div>John cena</div>
 </template>
 
 <script>
