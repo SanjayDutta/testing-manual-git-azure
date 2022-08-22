@@ -1,5 +1,5 @@
 <template>
-  <div>John cena</div>
+  <div>John cena 2022</div>
 </template>
 
 <script>
